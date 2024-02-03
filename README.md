@@ -1,4 +1,2 @@
-- 👋 Hi, I’m @rehabmagdy
-- 👀 I’m interested in web devlopment
-- 🌱 I’m currently learning HTML,CSS
-- 
+
+
